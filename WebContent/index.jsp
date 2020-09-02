@@ -8,8 +8,9 @@
 </head>
 <body>
 	<h1>final project test</h1>
-	<button onclick="location.href='test'">test(Áö¼·)</button>
-	<button onclick="location.href='test1'">test1(Áö¼·)</button>
-  <button onclick="location.href='test2'">test2(È«¼®)</button>
+	<button onclick="location.href='test'">test(�철쩌쨌)</button>
+	<button onclick="location.href='test1'">test1(�철쩌쨌)</button>
+  <button onclick="location.href='test2'">test2(�짬쩌짰)</button>
+  <button onclick="location.href='test'">test(지섭)</button>
 </body>
 </html>
