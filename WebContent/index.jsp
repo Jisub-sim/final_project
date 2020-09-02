@@ -1,9 +1,9 @@
-<%@ page language="java" contentType="text/html; charset=EUC-KR"
-    pageEncoding="EUC-KR"%>
+<%@ page language="java" contentType="text/html; charset=utf-8"
+    pageEncoding="utf-8"%>
 <!DOCTYPE html>
 <html>
 <head>
-<meta charset="EUC-KR">
+<meta charset="utf-8">
 <title>Insert title here</title>
 </head>
 <body>
@@ -14,6 +14,6 @@
   <button onclick="location.href='test2'">test2(홍석))</button>
   <button onclick="location.href='test3'">test3(소연)</button>
 <button onclick="location.href='test5'">test5(진주)</button>
-//확인
+
 </body>
 </html>
