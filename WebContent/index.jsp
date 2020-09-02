@@ -9,5 +9,6 @@
 <body>
 	<h1>final project test</h1>
 	<button onclick="location.href='test'">test(Áö¼·)</button>
+	<button onclick="location.href='test3'">test3(¼Ò¿¬)</button>
 </body>
 </html>
