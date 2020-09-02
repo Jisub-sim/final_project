@@ -14,5 +14,6 @@
   <button onclick="location.href='test2'">test2(홍석))</button>
   <button onclick="location.href='test3'">test3(소연)</button>
 <button onclick="location.href='test5'">test5(진주)</button>
+//확인
 </body>
 </html>
