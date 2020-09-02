@@ -26,6 +26,7 @@ public class TestServlet extends HttpServlet {
 	 * @see HttpServlet#doGet(HttpServletRequest request, HttpServletResponse response)
 	 */
 	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
+		
 		request.setAttribute("test", "final project test");
 		request.getRequestDispatcher("views/test/test.jsp").forward(request, response);
 	}
